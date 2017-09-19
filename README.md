@@ -1,10 +1,10 @@
-# Coding your own bots on Discord
+# Coding your own Discord bot
 
 
 ## Creating the Bot
-- Make a Discord account, then visit https://discordapp.com/developers/applications/me 
+- Make a Discord account, then click [this link](https://discordapp.com/developers/applications/me)
 - From this area, start a new app
-- Name it something short and memorable, add a description if you like. 
+- Name it something short and memorable, add a description if you like 
 - Check the "Create a Bot User" box
 
 ## Adding it to your server
