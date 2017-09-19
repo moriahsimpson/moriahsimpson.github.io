@@ -15,5 +15,6 @@
 - Paste the URL somewhere, and replace the number with your Client ID
 - Paste this new URL into your browser, and add the bot to whichever server you want
 
-
-
+## Pick a language
+For this tutorial I chose JavaScript, because that's where I have the most experience. After you pick a language to code your bot in, download the appropriate compiler/editor. 
+I recommend [this one](https://nodejs.org/en/) for fellow JavaScript users.
